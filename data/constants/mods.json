@@ -78,7 +78,8 @@
       "download": "https://github.com/hannibal002/SkyHanni",
       "versions": {
         "0.20": "9053dfb1b572f96283bcf461bdb09e8779dcfe67d291c558585e86a28f4349cf",
-        "0.21.Beta.12": "f7514c894fe647873026d5e227327b181ccbfef7be433828b6eaeacdb1378395"
+        "0.21.Beta.12": "f7514c894fe647873026d5e227327b181ccbfef7be433828b6eaeacdb1378395",
+        "0.21.Beta.14": "fd5a4747b34c33494c4eaa1049475f8eca37ee4417cfaecb714407503c61ff08"
       }
     },
     "Skytils": {
