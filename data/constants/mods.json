@@ -75,6 +75,7 @@
       "download": "https://github.com/NotEnoughUpdates/NotEnoughUpdates",
       "versions": {
         "2.1.1+Alpha-19": "5b56ebf3523040d36beda47d72373ce4c46e81d03e047357551950b9d203c186",
+        "2.1.1+Alpha-21": "c5d956020ba6b5b098dbed79f4b4428497b75ab0ae5f2f48dc72ba929eaa4724",
         "2.1.1+Alpha-22": "955a263c158e422d9b4f9e6cf1eca1a4f8518e3b195868d11ffa5977dc047253",
         "2.1.1+Pre-4": "a1aa859481b11865d771bf72baa2aa7cb895f165a3e16574e6aaefade12e4230"
       }
@@ -99,6 +100,7 @@
         "0.20": "9053dfb1b572f96283bcf461bdb09e8779dcfe67d291c558585e86a28f4349cf",
         "0.21.Beta.12": "f7514c894fe647873026d5e227327b181ccbfef7be433828b6eaeacdb1378395",
         "0.21.Beta.14": "fd5a4747b34c33494c4eaa1049475f8eca37ee4417cfaecb714407503c61ff08",
+        "0.21.Beta.16": "35ecfaaf3849780a7719670c537f65feae94adf5b6838684d8d9c8b24e588a4d",
         "0.21.Beta.17": "20e35dbcc7882abe9fbadb640244b4547b4d90b9a240956fb4852227ffc59f3c",
         "0.21.Beta.18": "e23258852eb71b558c58488567fa4547cdba7d428057f51b2814c978cb56078f"
       }
@@ -137,6 +139,7 @@
     "Apec": {
       "download": "https://github.com/BananaFructa/Apec",
       "versions": {
+        "1.10.3": "9a5b4abe739465e5985dbf0468fc3e9c14f9891a2fb85d4843a48ec9955e1a87",
         "1.11.6": "6c494a24f8d6c2ec1ceab2d5b9dac207acbbc980648e6414d00e52d6fae0cd5f"
       }
     },
