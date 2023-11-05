@@ -31,11 +31,18 @@
         "11.15.1.2318": "596512ad5f12f95d8a3170321543d4455d23b8fe649c68580c5f828fe74f6668"
       }
     },
+    "Minecraft Forge (Dev Enviromen)": {
+      "download": "https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html",
+      "versions": {
+        "11.15.1.2318": "53504ab3f396c1961c33e96a0f066cca33785f70bc59684334eb51bad5fca3f5"
+      }
+    },
     "Essential": {
       "download": "https://essential.gg/",
       "versions": {
         "1.0.0-13428": "a70c02554a96faff60647eb204652a20b5551798506f1e4c0970daef401f782e",
-        "1.0.0-14514": "f5767ffb6626932b5c4e6658f3587f34d0171da08f5f25323dc720750f669474"
+        "1.0.0-14514": "f5767ffb6626932b5c4e6658f3587f34d0171da08f5f25323dc720750f669474",
+        "1.0.0-14565": "d78b5c4e892a8f9a8ebeb8db2bc2f432ef04371e7ecaaa752929090f6f689644"
       }
     },
     "OneConfig": {
@@ -230,6 +237,12 @@
       "download": "https://github.com/mastermindgolem/SkyBlock-Utils",
       "versions": {
         "1.0.4": "a17b72cce63a90b8d3f061449f9de0089d79f5097660cbfeef9b2bb71512779d"
+      }
+    },
+    "WaterSolver": {
+      "download": "https://github.com/Desco1/WaterSolver",
+      "versions": {
+        "1.0": "3323a8355947254b92a108601c8314ab8981cb196b12e93a2c185bf9bb9cb8a6"
       }
     }
   }
