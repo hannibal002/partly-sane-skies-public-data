@@ -257,6 +257,30 @@
       "versions": {
         "1.0.0.2": "5771a46dc3db4c4cdef4f6221e9e0975628090304acaca1f1ac52d22fb72c33a"
       }
+    },
+    "Autotip": {
+      "download": "https://autotip.pro/",
+      "versions": {
+        "3.1": "1ec3e5d27a9cab610ba539ee9c0cffd4d223e95b27aed7288c4755db20d39303"
+      }
+    },
+    "Orange's SimpleMods": {
+      "download": "https://hypixel.net/threads/forge-1-8-9-oranges-simplemods-v1-1.921060/",
+      "versions": {
+        "1.0": "f49af23ec0b696432c8c416d09c44f4d1f700502c066651b0448fff62af8312d"
+      }
+    },
+    "Popup Events": {
+      "download": "https://github.com/Sk1erLLC/PopupEvents",
+      "versions": {
+        "1.3.1": "1e46cd6b0961cedaf2300743e9e14192200e7831a8a68aa559bd26cdc58f7056"
+      }
+    },
+    "Hypixel Autocomplete Mod": {
+      "download": "https://github.com/Sk1erLLC/Hypixel-Autocomplete-Mod",
+      "versions": {
+        "1.0": "a0d3a577fab7d98c882cf4eedde7c55830ffdd6b860443402704690461023de9"
+      }
     }
   }
 }
