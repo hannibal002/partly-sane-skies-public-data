@@ -10,6 +10,7 @@
       "download": "https://github.com/ILikePlayingGames/FancyWarpMenu",
       "versions": {
         "0.8.0.69": "685e3234864170a433dd6717635170562a40d920f83f927a6ecfa228ae957e0d",
+        "0.9.0+83": "2018c3aaf3737f1d62b2f123a32eb23eab2bab79151b85daf4624c58acc8a6fa",
         "1.0+96": "4c118847291d8a4e6a521664d4c3ebff761d1a5ce65996bb30f5e994a192a339"
       }
     },
@@ -45,6 +46,12 @@
         "1.0.0-14565": "d78b5c4e892a8f9a8ebeb8db2bc2f432ef04371e7ecaaa752929090f6f689644"
       }
     },
+    "Sk1er Modcore (Old Essential)": {
+      "download": "https://essential.gg/",
+      "versions": {
+        "0.1.51": "00920149d2ed722f727a564c0f93c05e64cf1927de4d8e07e6949b7ef8232108"
+      }
+    },
     "OneConfig": {
       "download": "https://github.com/Polyfrost/OneConfig",
       "versions": {
@@ -67,6 +74,7 @@
     "NotEnoughUpdates": {
       "download": "https://github.com/NotEnoughUpdates/NotEnoughUpdates",
       "versions": {
+        "2.1.1+Alpha-19": "5b56ebf3523040d36beda47d72373ce4c46e81d03e047357551950b9d203c186",
         "2.1.1+Alpha-22": "955a263c158e422d9b4f9e6cf1eca1a4f8518e3b195868d11ffa5977dc047253",
         "2.1.1+Pre-4": "a1aa859481b11865d771bf72baa2aa7cb895f165a3e16574e6aaefade12e4230"
       }
@@ -87,6 +95,7 @@
     "SkyHanni": {
       "download": "https://github.com/hannibal002/SkyHanni",
       "versions": {
+        "0.19": "d6e6c3c9fb5fd52813baeb1cfceccc901e9df3367f75f893a9ff7b577a5acc54",
         "0.20": "9053dfb1b572f96283bcf461bdb09e8779dcfe67d291c558585e86a28f4349cf",
         "0.21.Beta.12": "f7514c894fe647873026d5e227327b181ccbfef7be433828b6eaeacdb1378395",
         "0.21.Beta.14": "fd5a4747b34c33494c4eaa1049475f8eca37ee4417cfaecb714407503c61ff08",
@@ -97,6 +106,7 @@
     "Skytils": {
       "download": "https://github.com/Skytils/SkytilsMod",
       "versions": {
+        "1.7.5": "4ddbd87bd5de66056379bae1d17dd33634981276fa33f7c12511611c210a3d18",
         "1.7.8": "bed2f299f5acebc4c1fbbc1a753d351a518b1ce8944be87403db73ff298fc778"
       }
     },
