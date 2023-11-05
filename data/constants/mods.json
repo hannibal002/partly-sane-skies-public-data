@@ -3,7 +3,7 @@
     "Partly Sane Skies": {
       "download": "https://github.com/PartlySaneStudios/partly-sane-skies",
       "versions": {
-        "beta-v0.4.2+hannibal2+pr": "b881d55dafe87df209c82e45ca689704bd2847ab62b0c053e14c4fcc1b392857"
+        "beta-v0.4.2+hannibal2": "83197c6ad17f0f113bc802a42fd5beaf37761e879d608887d68bfb6ea96c21c6"
       }
     },
     "Fancy Warp Menu": {
@@ -58,7 +58,8 @@
     "NotEnoughUpdates": {
       "download": "https://github.com/NotEnoughUpdates/NotEnoughUpdates",
       "versions": {
-        "2.1.1+Alpha-22": "955a263c158e422d9b4f9e6cf1eca1a4f8518e3b195868d11ffa5977dc047253"
+        "2.1.1+Alpha-22": "955a263c158e422d9b4f9e6cf1eca1a4f8518e3b195868d11ffa5977dc047253",
+        "2.1.1+Pre-4": "a1aa859481b11865d771bf72baa2aa7cb895f165a3e16574e6aaefade12e4230"
       }
     },
     "Patcher": {
